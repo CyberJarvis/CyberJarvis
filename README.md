@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<div align="center">
-<img src="" align="center" height="" width="600" />
-</div>  
-  
 
 ### <div align="center">I'm Roshan, a Computer Engineering student 👨‍💻, passionate about Cybersecurity, Artificial Intelligence and new Technologies🚀</div>  
   
