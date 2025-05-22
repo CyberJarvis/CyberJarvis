@@ -65,7 +65,7 @@
 <a href="https://linkedin.com/in/roshanajith" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>  
 <a href="https://instagram.com/roshanajith_7988" target="_blank"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>  
 <a href="https://www.youtube.com/@CyberRaas" target="_blank"><img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>  
-<a href="https://github.com/DevRaas" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>  
+<a href="https://github.com/CyberJarvis" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>  
 </div>  
 
 <br/>  
@@ -75,13 +75,13 @@
 ## **📊 GitHub Stats**  
 
 <div align="center">  
-<img src="https://github-readme-stats.vercel.app/api?username=DevRaas&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />  
+<img src="https://github-readme-stats.vercel.app/api?username=CyberJarvis&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />  
 </div>  
 
 <br/>  
 
 <div align="center">  
-<img src="https://komarev.com/ghpvc/?username=DevRaas&&style=flat-square" alt="Profile Views" />  
+<img src="https://komarev.com/ghpvc/?username=CyberJarvis&&style=flat-square" alt="Profile Views" />  
 </div>  
 
 <br/>  
