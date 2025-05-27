@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Roshan aka CyberJarvis</h1>
 <h3 align="center">A Computer Engineering student 👨‍💻, passionate about Cybersecurity, Artificial Intelligence and new Technologies🚀assionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberjarvis&label=Profile%20views&color=0e75b6&style=flat" alt="cyberjarvis" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberjarvis" alt="cyberjarvis" /></a> </p>
-
 - 🔭 I’m currently working on **Enhancing my cybersecurity expertise**
 
 - 🌱 I’m currently learning **Artificial Intelligence and Cybersecurity skills**
@@ -20,6 +16,10 @@
 - 📄 Know about my experiences [https://cyberjarvis.github.io/portfolio](https://cyberjarvis.github.io/portfolio)
 
 - ⚡ Fun fact **I'm skilled at "staking" people — but in cybersecurity, it’s called OSINT (Open Source Intelligence).**
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cyberjarvis&label=Profile%20views&color=0e75b6&style=flat" alt="cyberjarvis" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberjarvis" alt="cyberjarvis" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
