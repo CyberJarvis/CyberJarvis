@@ -8,6 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/CyberJarvis?tab=repositories](https://github.com/CyberJarvis?tab=repositories)
 
 [//]: # (- 📝 I regularly write articles on [Medium Blogs](https://medium.com/@cyberjarvis))
+[//]: # (- 📝 I regularly write articles on Medium Blogs)
 
 - 💬 Ask me about **Python and cybersecurity techniques**
 
