@@ -41,26 +41,42 @@ roshanajth2005@gmail.com
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/roshanajith" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/roshanajith" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/roshanajith_7988" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" alt="Instagram"/>
+  
+  <!-- Instagram -->
+  <a href="https://instagram.com/roshanajith_7988" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://medium.com/@cyberjarvis" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="40" alt="Medium"/>
+  
+  <!-- Medium -->
+  <a href="https://medium.com/@cyberjarvis" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="https://www.youtube.com/c/cyberraas" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" alt="YouTube"/>
+  
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/c/cyberraas" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://www.hackerrank.com/roshanajith7911" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="40" alt="HackerRank"/>
+  
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/roshanajith7911" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
   </a>
-  <a href="https://discord.gg/j3XnmJ3h" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40" alt="Discord"/>
+  
+  <!-- Discord -->
+  <a href="https://discord.gg/j3XnmJ3h" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  
+  <!-- Email -->
+  <a href="mailto:roshanajth2005@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -238,12 +254,6 @@ roshanajth2005@gmail.com
   
   <!-- Profile Views -->
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=CyberJarvis&label=Profile%20Views&style=for-the-badge&color=orange">
-  
-  <!-- Coding Activity -->
-  <a href="https://wakatime.com/@CyberJarvis">
-    <img alt="WakaTime Coding" src="https://wakatime.com/badge/user/your-wakatime-id.svg?style=for-the-badge">
-  </a>
-</p>
 
 <p align="center">
   <!-- Streak Stats -->
