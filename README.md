@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Roshan aka CyberJarvis</h1>
-<h3 align="center">A Computer Engineering student 👨‍💻, passionate about Cybersecurity, Artificial Intelligence and new Technologies🚀assionate frontend developer from India</h3>
+<h3 align="center">A Computer Engineering student 👨‍💻, passionate about Cybersecurity, Web Development, Artificial Intelligence and new Technologies🚀</h3>
 
 - 🔭 I’m currently working on **Enhancing my cybersecurity expertise**
 
@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/CyberJarvis?tab=repositories](https://github.com/CyberJarvis?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@cyberjarvis](https://medium.com/@cyberjarvis)
+[//]: # (- 📝 I regularly write articles on [Medium Blogs](https://medium.com/@cyberjarvis))
 
 - 💬 Ask me about **Python and cybersecurity techniques**
 
 - 📫 How to reach me **roshanajth2005@gmail.com**
 
-- 📄 Know about my experiences [https://cyberjarvis.github.io/portfolio](https://cyberjarvis.github.io/portfolio)
+- 📄 Know about my experiences [CyberJarvis Porfolio](https://cyberjarvis.github.io/portfolio)
 
 - ⚡ Fun fact **I'm skilled at "staking" people — but in cybersecurity, it’s called OSINT (Open Source Intelligence).**
 
