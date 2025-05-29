@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Roshan aka CyberJarvis</h1>
+<h1 align="center">Hey there 👋, I'm Roshan — aka <span style="color:#00CED1">CyberJarvis</span></h1>
 <h3 align="center">A Computer Engineering student 👨‍💻, passionate about Cybersecurity, Web Development, Artificial Intelligence and new Technologies🚀</h3>
 
 - 🔭 I’m currently working on **Enhancing my cybersecurity expertise**
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **roshanajth2005@gmail.com**
 
-- 📄 Know about my experiences [CyberJarvis Porfolio](https://cyberjarvis.github.io/portfolio)
+- 📄 Know more about my work: [Check out my Portfolio 🚀](https://cyberjarvis.github.io/portfolio)
 
 - ⚡ Fun fact **I'm skilled at "staking" people — but in cybersecurity, it’s called OSINT (Open Source Intelligence).**
 
@@ -177,3 +177,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberjarvis&show_icons=true&locale=en" alt="cyberjarvis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberjarvis&" alt="cyberjarvis" /></p>
+
+![Status](https://img.shields.io/badge/Currently_Learning-Cybersecurity_&_AI-blue?style=flat-square)
+![Portfolio](https://img.shields.io/badge/Portfolio-Available-green?style=flat-square&logo=github)
+
