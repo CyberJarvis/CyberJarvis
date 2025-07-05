@@ -1,9 +1,4 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Good%20Morning!%20I’m%20Roshan%20aka%20CyberJarvis!;Good%20Afternoon!%20I’m%20Roshan%20aka%20CyberJarvis!;Good%20Evening!%20I’m%20Roshan%20aka%20CyberJarvis!&center=true&size=20">
-  </a>
-</h1>
-
+# Hey there 👋, I'm Roshan — aka **_CyberJarvis_**
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -11,7 +6,6 @@
   </a>
 </h1>
 
-# Hey there 👋, I'm Roshan — aka **_CyberJarvis_**
 
 A Computer Engineering student 👨‍💻 passionate about:
 
