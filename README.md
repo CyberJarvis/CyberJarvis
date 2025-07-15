@@ -102,6 +102,7 @@ roshanajth2005@gmail.com
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 10px"/>
   </a>
+  <!-- Hidden
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" style="margin: 10px"/>
   </a>
@@ -111,16 +112,19 @@ roshanajth2005@gmail.com
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" style="margin: 10px"/>
   </a>
+  -->
 </p>
 
 ### ⚙️ Backend Development
 <p align="center">
+  <!-- Hidden
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="margin: 10px"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" style="margin: 10px"/>
   </a>
+  -->
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50" style="margin: 10px"/>
   </a>
@@ -149,19 +153,23 @@ roshanajth2005@gmail.com
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50" style="margin: 10px"/>
   </a>
+  <!-- Hidden
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50" style="margin: 10px"/>
   </a>
+  -->
 </p>
 
 ### 🗄️ Databases
 <p align="center">
+  <!-- Hidden
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" style="margin: 10px"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin: 10px"/>
   </a>
+  -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" style="margin: 10px"/>
   </a>
@@ -170,6 +178,7 @@ roshanajth2005@gmail.com
   </a>
 </p>
 
+<!-- Hidden
 ### 📱 Mobile & IoT Development
 <p align="center">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
@@ -185,6 +194,7 @@ roshanajth2005@gmail.com
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50" style="margin: 10px"/>
   </a>
 </p>
+-->
 
 ### 🤖 Machine Learning & Data Science
 <p align="center">
@@ -200,9 +210,11 @@ roshanajth2005@gmail.com
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50" style="margin: 10px"/>
   </a>
+  <!-- Hidden
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50" style="margin: 10px"/>
   </a>
+  -->
 </p>
 
 ### 🔧 Development Tools & Platforms
