@@ -47,7 +47,8 @@ roshanajth2005@gmail.com
 </p>
 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5391710" style='border:none;'></iframe>
+### 🛡️ My TryHackMe Progress  
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/cyberjarvis.png)](https://tryhackme.com/p/cyberjarvis)
 
 
 ---
