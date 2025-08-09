@@ -48,9 +48,14 @@ roshanajth2005@gmail.com
 
 
 ### 🛡️ My TryHackMe Progress  
-<a href="https://tryhackme.com/p/CyberJarvis">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/CyberJarvis.png" alt="TryHackMe Badge" />
+
+<a href="https://tryhackme.com/p/CyberJarvis" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-CyberJarvis-red?logo=tryhackme&logoColor=white&style=for-the-badge" alt="TryHackMe Profile" />
+</a>  
+<a href="https://tryhackme.com/p/CyberJarvis" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/CyberJarvis.png?cachebuster=1691587200000000000"alt="TryHackMe Badge" />
 </a>
+
 
 
 ---
