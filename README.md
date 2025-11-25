@@ -28,7 +28,7 @@ Python, Web Development, Cybersecurity, and OSINT.
 ### 📫 Reach me at  
 roshanajth2005@gmail.com
 
-### 📝 I regularly write articles on 
+### 📝 I write blogs on 
 [Medium Blogs](https://medium.com/@cyberjarvis)
 
 ### 📄 Know more about me  
