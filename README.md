@@ -32,7 +32,7 @@ roshanajth2005@gmail.com
 [Medium Blogs](https://medium.com/@cyberjarvis)
 
 ### 📄 Know more about me  
-🚀 [My Portfolio](https://cyberjarvis.github.io/portfolio)
+🚀 [My Portfolio](https://cyberjarvis.xyz)
 
 ---
 
